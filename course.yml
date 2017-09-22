@@ -8,5 +8,7 @@ difficulty_level: 2
 time_needed: 15 hours
 from: r-base-prod:28
 datasets:
-  division_region.csv: Division region
-  divisions.csv: Divisions
+  cost_of_living.csv: cost_of_living
+  division_region.csv: division_region
+  divisions.csv: divisions
+  ideology.csv: ideology
