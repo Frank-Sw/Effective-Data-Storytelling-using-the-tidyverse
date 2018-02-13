@@ -6,10 +6,10 @@ description: This course is designed to supplement and build on the content cove
   to R course on DataCamp</a>.
 difficulty_level: 2
 time_needed: 15 hours
-#from: r-base-prod:28
 from: tidyverse-base-prod:1
 datasets:
-  cost_of_living.csv: cost_of_living
-  division_region.csv: division_region
-  divisions.csv: divisions
-  ideology.csv: ideology
+  cost_of_living.csv: Cost of living
+  police_locals.csv: Police locals
+  total_fertility.csv: Total fertility
+  division_region.csv: Division region
+  divisions.csv: Divisions
