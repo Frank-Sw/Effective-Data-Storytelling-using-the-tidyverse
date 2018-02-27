@@ -9,7 +9,8 @@ time_needed: 15 hours
 from: tidyverse-base-prod:1
 datasets:
   cost_of_living.csv: Cost of living
-  police_locals.csv: Police locals
-  total_fertility.csv: Total fertility
   division_region.csv: Division region
   divisions.csv: Divisions
+  ideology.csv: Ideology
+  police_locals.csv: Police locals
+  total_fertility.csv: Total fertility
