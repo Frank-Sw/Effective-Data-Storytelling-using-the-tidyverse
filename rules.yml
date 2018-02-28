@@ -7,7 +7,7 @@ rules:
         max: 4
     normal_exercise_num_chars_assignment:
         min: 30
-        max: 780
+        max: 2000
     normal_exercise_num_subitems_instructions:
         min: 0
         max: 8
