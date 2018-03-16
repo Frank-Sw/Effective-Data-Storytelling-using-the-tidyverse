@@ -486,7 +486,7 @@ test_error()
 --- type:NormalExercise lang:r xp:100 skills:1 key:81c080dffd
 ## Showing off
 
-We can actually produce a plot pretty close to the ["The Bechdel Test Over Time"](https://espnfivethirtyeight.files.wordpress.com/2014/04/hickey-bechdel-11.png?quality=90&strip=all&w=1150&ssl=1) plot by using `position = "fill"` and specifying the colors we'd like to use instead of the defaults.  
+We can actually produce a plot pretty close to the ["The Bechdel Test Over Time"](https://espnfivethirtyeight.files.wordpress.com/2014/04/hickey-bechdel-11.png?quality=90&strip=all&w=1150&ssl=1) plot by using `position = "fill"` and specifying the colors we'd like to use instead of the defaults including using `color` for the borders.  
 
 The default colors are shown in the plot already loaded for you.  As you write the code to create the plot, carefully pull apart how the different elements of the plot match with the Grammar of Graphics theory.
 
