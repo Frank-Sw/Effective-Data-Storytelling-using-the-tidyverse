@@ -45,7 +45,8 @@ ggplot(data = college_all_ages, mapping = aes(x = unemployment_rate)) +
 *** =sct
 ```{r}
 test_library_function("ggplot2")
-test_ggplot(check_data = TRUE, check_aes = TRUE, check_geom = TRUE,
+test_ggplot(#check_data = TRUE, 
+            check_aes = TRUE, check_geom = TRUE,
             check_geom_params = TRUE)
 success_msg("Nicely done! <br><br> THINK ABOUT IT:  Why is a barplot inappropriate when looking at the distribution of a numerical variable?")
 test_error()
